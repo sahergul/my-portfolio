@@ -21,22 +21,22 @@ export default function About() {
            
             Hello! I’m Saher Gul, a passionate Frontend developer based in karachi. With a keen eye for detail and a love for
             creative problem-solving, I strive to deliver innovative solutions that enhance user experiences and drive results.
-            
-            I began my journey in 2023, "the tech industry" or "graphic design" and quickly discovered my passion for "front-end development"
-            "creating visually appealing designs,". Over the years, I’ve honed my skills in HTML, CSS, JavaScript, Tailwind & Next.js, 
+            <br/>
+            I began my journey in 2023, &quot;the tech industry&quot; or &quot;graphic design&quot; and quickly discovered my passion for &quot;front-end development&quot; 
+            &quot;creating visually appealing designs,&quot;. Over the years, I’ve honed my skills in HTML, CSS, JavaScript, Tailwind & Next.js, 
             allowing me to transform ideas into engaging digital experiences.
             <br/>
             What I Do
             <br/>
-            Currently, I focus on Responsive E-commerce website, "building responsive websites," "creating branding materials,". My approach 
-            combines Figma UI & UX design "user-centered design," "agile development," etc., ensuring that every project I undertake meets both client 
+            Currently, I focus on Responsive E-commerce website, &quot;building responsive websites,&quot; &quot;creating branding materials,&quot;. My approach 
+            combines Figma UI & UX design &quot;user-centered design,&quot; &quot;agile development,&quot; etc., ensuring that every project I undertake meets both client 
             expectations and user needs.
             <br/>
             Let’s Connect
             <br/>
             I believe in the power of collaboration and continuous learning. If you’re looking for a dedicated professional to bring your vision to life or simply want to connect, feel free to reach out!
             <br/>
-            My portfolio can be found on{" "}
+            My portfolio can be found on{" "}    
             <Link
               href={"/"}
               target="_blank"
