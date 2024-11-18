@@ -8,7 +8,7 @@ export default function Home() {
 
   useEffect(() => {
     const options = {
-      strings: ["Future Frontend Developer", "Web Scraper", "Back-End Developer"],
+      strings: ["Frontend Developer", "Web Scraper", "Back-End Developer"],
       typeSpeed: 50, // Speed of typing in milliseconds
       backSpeed: 50, // Speed of deleting in milliseconds
       loop: true, // Loop the typing animation
