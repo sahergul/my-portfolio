@@ -32,6 +32,7 @@ export default function About() {
             combines Figma UI & UX design &quot;user-centered design,&quot; &quot;agile development,&quot; etc., ensuring that every project I undertake meets both client 
             expectations and user needs.
             <br/>
+          
             I am grateful for the opportunities that
             have come my way, and I am determined to keep learning and growing
             in my career.

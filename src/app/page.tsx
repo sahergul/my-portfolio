@@ -31,7 +31,7 @@ export default function Home() {
             No one can whistle a symphony. It takes an orchestra to play it.
           </p>
           <h1 className="py-4 text-indigo-100 text-5xl hover:scale-110 duration-300">
-            Hi, I&apos;m Saher Rameez
+            Hi, I'm Saher Rameez
           </h1>
           <h1 className="py-2 text-gray-700 text-4xl">
             An Expert{" "}
