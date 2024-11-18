@@ -32,18 +32,6 @@ export default function About() {
             combines Figma UI & UX design &quot;user-centered design,&quot; &quot;agile development,&quot; etc., ensuring that every project I undertake meets both client 
             expectations and user needs.
             <br/>
-            Let’s Connect
-            <br/>
-            I believe in the power of collaboration and continuous learning. If you’re looking for a dedicated professional to bring your vision to life or simply want to connect, feel free to reach out!
-            <br/>
-            My portfolio can be found on{" "}
-            <Link
-              href={"/"}
-              target="_blank"
-              className="underline text-stone-900 mx-2 font-semibold hover:no-underline"
-            >
-              Github Profile   
-            </Link>
             I am grateful for the opportunities that
             have come my way, and I am determined to keep learning and growing
             in my career.
